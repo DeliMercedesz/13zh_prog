@@ -27,15 +27,21 @@ Maga az adatbázis ötlete egycsaládi hobbiból jött, hisz nagyon sokat járun
    
  `1x1p` Az adatbázis tartalmaz Constraint-eket (min 2)
 	   
-	 - Az adatbázisom tartalmaz Constraint-eket `1p`
+	 - Az adatbázisom tartalmaz Constraint-eket (Megtalálhatóak az sql kódban) `1p`
 
 `1x1p` Az adatbázis adatainak forrásmegjelölése értsd: miből készült és hogyan
 	   
 	 - Fentebb említettem, hogy hogyan készítettem `1p`
+
+  ![image](https://github.com/user-attachments/assets/e1e8145d-55d5-4923-b451-e423e1673b23)
+
 	
 `1x2p` Az adatbázis saját Azure SQL szerveren van
 	   
 	 - Az adatbázisom fent van Azure-on `2p`
+
+  ![image](https://github.com/user-attachments/assets/1e4e7292-8d84-4073-af76-93c52f596eed)
+
 
  2. Windows Forms Application (**20p**)
  
