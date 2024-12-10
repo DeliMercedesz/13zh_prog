@@ -1,0 +1,1 @@
+Scaffold-DbContext „Data Source=szabadulo.database.windows.net;Initial Catalog=Szabaduloszoba;User ID=Hallgato;Password=Password123” Microsoft.EntityFrameworkCore.SqlServer -OutputDir Mappa -Context context_Szabaduloszoba
