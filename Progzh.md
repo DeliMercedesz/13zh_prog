@@ -21,6 +21,8 @@ Maga az adatbázis ötlete egycsaládi hobbiból jött, hisz nagyon sokat járun
 `3x1p` Az alkalmazásban használt táblánként pont
  
     - Az adatbázisom 3 táblából épül fel és mind a 3-at használom `3p`
+    ![image](https://github.com/user-attachments/assets/41332ff7-9b5c-4592-90da-c3594d06c85a)
+
    
  `1x1p` Az adatbázis tartalmaz Constraint-eket (min 2)
 	   
